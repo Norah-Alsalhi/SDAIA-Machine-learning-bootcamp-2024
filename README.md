@@ -1,5 +1,5 @@
 # Machine learning bootcamp (2024): 
-### This repository compiles all the assignments associated with SDAIA Machine Learning Projects Bootcamp.
+### This repository compiles all the assignments associated with SDAIA Machine Learning Bootcamp.
 
 * ## _**The first assignment:**_
 
